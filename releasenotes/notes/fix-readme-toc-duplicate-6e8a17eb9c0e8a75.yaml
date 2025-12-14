@@ -1,0 +1,4 @@
+---
+fixes:
+  - |
+    Fixed duplicate "Use Cases" entry in the README.md Table of Contents that incorrectly pointed to the Features section.

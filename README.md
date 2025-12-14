@@ -19,7 +19,6 @@ and LLMs into pipelines to build end-to-end NLP applications and solve your use 
 - [Installation](#installation)
 - [Documentation](#documentation)
 - [Features](#features)
-- [Use Cases](#features)
 - [Hayhooks (REST API Deployment)](#-tip-1)
 - [Haystack Enterprise](#haystack-enterprise-best-practices-and-expert-support)
 - [deepset Studio](#-deepset-studio-your-development-environment-for-haystack)
